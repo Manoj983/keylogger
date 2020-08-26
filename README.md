@@ -1,5 +1,7 @@
 # Keylogger for both Windows and Linux
 
+> Communicates via python socket.
+
 > Use keyreceiver.py only on your machine (donot copy this to victim machine)
 
 > Replace the ip with victim ip in keyreceiver.py file
