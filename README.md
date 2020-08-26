@@ -9,7 +9,7 @@
 ## Installation
 
 - Clone the repostories.
-- Copy the folder (linux or windows) according to target machine.
+- Copy the folder (linux or windows) according to victim machine.
 - Run the program mainlogger.py as ( screen python3 manlogger.py ).
 - When successful.
 - Run the script keysreceiver.py in your own machine.
